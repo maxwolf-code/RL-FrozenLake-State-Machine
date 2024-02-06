@@ -1,9 +1,10 @@
 import gymnasium as gym
 from time import sleep
 import matplotlib.pyplot as plt
+# code is tested on gymnasium 0.29.1
 
 # env source: 
-# https://gymnasium.farama.org/_images/cliff_walking.gif
+# https://gymnasium.farama.org/environments/toy_text/frozen_lake/
 
 ### Generate the environment ###
 desc = [
